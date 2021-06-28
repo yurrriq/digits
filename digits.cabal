@@ -1,7 +1,7 @@
 Build-Type: Simple
 Name: digits
 Category: Data
-Version: 0.3.1
+Version: 0.3.2
 Cabal-Version: >= 1.10
 Synopsis: Converts integers to lists of digits and back.
 Description: Converts integers to lists of digits and back.
